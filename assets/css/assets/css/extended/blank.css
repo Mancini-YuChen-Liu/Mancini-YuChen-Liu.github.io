@@ -5,7 +5,7 @@ Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-cs
 */
 .list {
     /* 添加!important表示覆盖默认的设置 */
-    background-image: url("../../img/bg.jpeg") !important;
+    background-image: url("../../img/bg.png") !important;
 }
 /*
 This is just a placeholder blank stylesheet so as to support adding custom styles budled with theme's default styles
