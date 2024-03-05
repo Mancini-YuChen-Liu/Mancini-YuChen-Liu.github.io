@@ -2,12 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mancini-yuchen-liu.github.io/categories/</loc>
+    <loc>https://Mancini-YuChen-Liu.github.io/posts/</loc>
   </url><url>
-    <loc>https://mancini-yuchen-liu.github.io/</loc>
+    <loc>https://Mancini-YuChen-Liu.github.io/posts/food/</loc>
   </url><url>
-    <loc>https://mancini-yuchen-liu.github.io/series/</loc>
+    <loc>https://Mancini-YuChen-Liu.github.io/posts/journey/</loc>
   </url><url>
-    <loc>https://mancini-yuchen-liu.github.io/tags/</loc>
+    <loc>https://Mancini-YuChen-Liu.github.io/posts/life/</loc>
+  </url><url>
+    <loc>https://Mancini-YuChen-Liu.github.io/posts/project/</loc>
+  </url><url>
+    <loc>https://Mancini-YuChen-Liu.github.io/categories/</loc>
+  </url><url>
+    <loc>https://Mancini-YuChen-Liu.github.io/</loc>
+  </url><url>
+    <loc>https://Mancini-YuChen-Liu.github.io/series/</loc>
+  </url><url>
+    <loc>https://Mancini-YuChen-Liu.github.io/tags/</loc>
   </url>
 </urlset>
